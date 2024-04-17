@@ -11,6 +11,10 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Metabase](https://img.shields.io/badge/-Metabase-black?style=flat-square&logo=metabase)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Zenvia](https://img.shields.io/badge/-Zenvia-black?style=flat-square&logo=zenvia)
+![Chatbot](https://img.shields.io/badge/-Chatbot-black?style=flat-square&logo=chatbot)
 
 ## Como me encontrar
 [![Linkedin: Pedro Leite](https://img.shields.io/badge/-PedroLeite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrol23/)](https://www.linkedin.com/in/pedrol23/)
