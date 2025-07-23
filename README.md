@@ -5,7 +5,7 @@
 - 🇧🇷  Brasileiro
 - 🎓 Cursando pós-graduação em Marketing, Branging e Growth pela PUCRS
 - 🔭 Atualmente trabalho com Análise de dados
-- 🌱 Estou aprendendo Python, Algoritmos com Machine Learning, SQL, Panda e Numpy, Big Data e Spark
+- 🌱 Estou aprendendo Python, Algoritmos com Machine Learning, SQL, Pandas e Numpy, Big Data e Spark
 
 ## Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
