@@ -3,7 +3,7 @@
 ## Um pouco sobre mim:
 - 📆 31 anos
 - 🇧🇷  Brasileiro
-- 🎓 Cursando pó-graduação em Marketing, Branging e Growth pela PUCRS
+- 🎓 Cursando pós-graduação em Marketing, Branging e Growth pela PUCRS
 - 🔭 Atualmente trabalho com Análise de dados
 - 🌱 Estou aprendendo Python, Algoritmos com Machine Learning, SQL, Panda e Numpy, Big Data e Spark
 
