@@ -1,7 +1,7 @@
 # Sou Pedro Leite, muito prazer. 👋
 
 ## Um pouco sobre mim:
-- 📆 31 anos
+- 📆 33 anos
 - 🇧🇷  Brasileiro
 - 🎓 Cursando pós-graduação em Marketing, Branging e Growth pela PUCRS
 - 🔭 Atualmente trabalho com Análise de dados
